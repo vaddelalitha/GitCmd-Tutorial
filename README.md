@@ -1,2 +1,2 @@
 "#GitCmd-Tutorial" 
-Adding chnages from cmd
+Adding changes from cmd
